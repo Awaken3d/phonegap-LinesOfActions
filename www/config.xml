@@ -19,7 +19,7 @@
     <description>
         A multiplayer Lines of Actions game.
     </description>
-    
+
     <author email="nikolaos.souris@gmail.com">
         nikolaos.souris@gmail.com
     </author>
@@ -108,7 +108,7 @@
 
     <!-- see: https://www.npmjs.com/package/cordova-plugin-facebook4 -->
     <gap:plugin name="cordova-plugin-facebook4" source="npm">
-        <param name="APP_ID" value="MISSING" />
+        <param name="APP_ID" value="142687809431708" />
         <param name="APP_NAME" value="linesofactions" />
     </gap:plugin>
 
